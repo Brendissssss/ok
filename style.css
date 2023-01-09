@@ -1,0 +1,39 @@
+body
+{
+    font-family: 'christmas day';
+    background: white;
+}
+
+.header_div
+{
+    background-color: darkgray;
+    color:black;
+}
+
+.header_div p{
+    font-family: 'First Coffe';
+    color:indigo;
+    letter-spacing: 2px;
+    font-size: 12px;
+    font-weight: bold;
+}
+
+.main_div button{
+    font-family: 'Just Bubble';
+    margin-top:30px;
+    width: 130px;
+    letter-spacing: 3px;
+    font-weight: bold;
+}
+
+.copy_right_footer {
+    position: fixed;
+    color: rgb(92, 63, 63);
+    bottom:0px;
+    width: 100%;
+    font-size: 18px;
+    background-color: #f6f6; 
+    line-height: 3;
+    text-align: center;
+    text-shadow: 5px 5px 5px rgb(145, 145, 145);
+}
